@@ -8,7 +8,7 @@ The project will require you to research, implement and validate artifical intel
 
 
 ## Authors 
-- Jun Han Yap (22507198)
+- skyheat
 - Jonathan Neo (21683439)
 
 ## Compiling Code
